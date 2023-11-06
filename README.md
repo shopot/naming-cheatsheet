@@ -32,11 +32,11 @@
 Используйте английский язык при именовании переменных и функций.
 
 ```js
-/* ❌ Bad */
+/* Bad */
 const primerNombre = 'Gustavo';
 const amigos = ['Kate', 'John'];
 
-/* ✅ Good */
+/* Good */
 const firstName = 'Gustavo';
 const friends = ['Kate', 'John'];
 ```
