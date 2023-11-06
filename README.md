@@ -4,6 +4,8 @@
   </a>
 </p>
 
+<p align="center"><a href="https://github.com/kettanaito/naming-cheatsheet" target="_blank">Перевод [Naming cheatsheet]</a></p>
+
 # Шпаргалка по именованию
 
 * [Английский язык](#английский-язык)
@@ -20,8 +22,6 @@
 * [Единственное и множественное число](#единственное-и-множественное-число)
 
 ---
-
-Перевод [Naming cheatsheet](https://github.com/kettanaito/naming-cheatsheet)
 
 Называть вещи сложно. Этот руководство должно помочь сделать это проще.
 
