@@ -4,7 +4,7 @@
   </a>
 </p>
 
-<p align="center"><a href="https://github.com/kettanaito/naming-cheatsheet" target="_blank">Перевод [Naming cheatsheet]</a></p>
+<p align="center">Перевод <a href="https://github.com/kettanaito/naming-cheatsheet" target="_blank">Naming cheatsheet</a></p>
 
 # Шпаргалка по именованию
 
