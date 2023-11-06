@@ -4,6 +4,8 @@
   </a>
 </p>
 
+Перевод [Naming cheatsheet](https://github.com/kettanaito/naming-cheatsheet)
+
 # Шпаргалка по именованию
 
 Называть вещи сложно. Этот руководство должно помочь сделать это проще.
