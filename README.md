@@ -51,7 +51,7 @@ const friends = ['Kate', 'John'];
 ```js
 /* Bad */
 const page_count = 5;
-const shouldUpdate = true;
+const ShouldUpdate = true;
 class appLogger {};
 
 /*  Good */
